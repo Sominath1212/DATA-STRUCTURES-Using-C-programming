@@ -1,0 +1,44 @@
+basics of c++
+recursion 
+backtracking
+array
+linked list 
+stack
+queue
+attende same contest 
+searching 
+SORTING
+bubble sort 
+insertion sort
+selection sort
+merge sort
+quick sort
+hashmaps
+HEAPS
+min heaps
+max heaps
+TREES
+binary tree
+sliding window
+GRAPH
+breadth first search(BFS)
+deapth first search(DFS)
+shorest path from source to all vertices :Dijkstra
+shorest path from  every vertex:floyed warshall
+minimum spaning tree  :prim's algorithm
+minimum spaning tree :krushkal's algorithms
+strogly connected components:kosaraju's algorithm
+topological sort
+shorest path from source to all vertices with negative edges: bellman ford 
+normal DSU
+DSU by rank
+DYNAMIC PROGRAMMING 
+memoisation (most inportant)
+tabulation
+some additional concepts 
+number theory
+bit manupulation
+tries
+
+
+

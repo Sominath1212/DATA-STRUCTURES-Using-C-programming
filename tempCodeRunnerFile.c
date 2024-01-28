@@ -1,0 +1,1 @@
+ fgets(nn->ac_no, sizeof(nn->ac_no), stdin);

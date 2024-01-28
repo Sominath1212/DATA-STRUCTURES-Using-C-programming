@@ -1,0 +1,234 @@
+basics of c++
+following are 100 Question to help to master in cpp programming
+Write a C++ program to display "Hello, World!".*
+Create a program to take user input and print it.*
+Calculate the area of a circle.
+Swap two numbers without using a temporary variable.
+Check if a number is even or odd.
+Find the largest among three numbers.
+Check if a year is a leap year.
+Convert temperature from Celsius to Fahrenheit.
+Calculate the sum of natural numbers up to N.
+Generate Fibonacci series up to N terms.
+Find the factorial of a number.
+Check if a number is prime.
+Reverse a given number.
+Check if a string is a palindrome.
+Count the number of vowels and consonants in a string.
+Convert a decimal number to binary.
+Implement a basic calculator.
+Find the square root of a number.
+Calculate the power of a number using recursion.
+Check if a number is Armstrong.
+Implement a basic class and object in C++.
+Overload + operator to add two complex numbers.
+Implement a stack using an array.
+Implement a queue using an array.
+Find the intersection of two arrays.
+Remove duplicates from an array.
+Rotate an array to the right by K steps.
+Implement a linear search algorithm.
+Implement a binary search algorithm.
+Implement a bubble sort algorithm.
+Implement a selection sort algorithm.
+Implement an insertion sort algorithm.
+Implement a merge sort algorithm.
+Implement a quicksort algorithm.
+Find the factorial of a number using recursion.
+Reverse a linked list.
+Detect a loop in a linked list.
+Find the middle element of a linked list.
+Delete a node in a linked list.
+Implement a doubly linked list.
+Implement a circular linked list.
+Check if a linked list is a palindrome.
+Implement a simple text-based tic-tac-toe game.
+Implement a class for a basic banking system.
+Create a file and write data to it.
+Read data from a file and display it.
+Copy content from one file to another.
+Find the largest element in an array.
+Find the smallest element in an array.
+Implement a binary search tree.
+Find the height of a binary tree.
+Find the sum of nodes in a binary tree.
+Check if a binary tree is balanced.
+Find the LCA (Lowest Common Ancestor) in a binary tree.
+Check if a binary tree is a BST (Binary Search Tree).
+Implement a priority queue.
+Implement a hash table.
+Implement a graph using an adjacency matrix.
+Implement Depth-First Search (DFS) for a graph.
+Implement Breadth-First Search (BFS) for a graph.
+Find the shortest path in a graph using Dijkstra's algorithm.
+Find the shortest path in a graph using Bellman-Ford algorithm.
+Check if a graph is cyclic.
+Implement the Kruskal's algorithm for minimum spanning tree.
+Implement the Prim's algorithm for minimum spanning tree.
+Calculate the exponentiation of a number using bitwise operators.
+Implement a basic shell.
+Implement a basic text editor.
+Implement a simple chat application.
+Implement a basic HTTP server.
+Implement a basic HTTP client.
+Implement a stack using linked list.
+Implement a queue using linked list.
+Find the k-th largest element in an array.
+Implement a circular queue.
+Implement a deque (double-ended queue).
+Implement an AVL tree.
+Implement a Red-Black tree.
+Implement a simple garbage collector.
+Implement a basic memory allocator.
+Implement a basic shell sort algorithm.
+Implement an algorithm to find the longest common subsequence.
+Implement an algorithm to find the longest increasing subsequence.
+Implement an algorithm to find the edit distance between two strings.
+Implement an algorithm to solve the N-Queens problem.
+Implement an algorithm to solve the Knapsack problem.
+Implement an algorithm for finding the strongly connected components in a graph.
+Implement an algorithm for finding the articulation points in a graph.
+Implement an algorithm for finding the bridges in a graph.
+Implement an algorithm for topological sorting in a directed acyclic graph.
+Implement an algorithm for finding the maximum flow in a flow network.
+Implement an algorithm for finding the minimum cut in a flow network.
+Implement an algorithm for finding the connected components in an undirected graph.
+Implement an algorithm for finding the maximum bipartite matching in a graph.
+Implement an algorithm for finding the shortest path in a directed acyclic graph (DAG).
+Implement an algorithm for finding the transitive closure of a directed graph.
+Implement an algorithm for finding the maximum clique in an undirected graph.
+Implement an algorithm for finding the chromatic number of a graph.
+Implement an algorithm for finding the maximum independent set in a graph.
+Implement an algorithm for finding the longest path in a graph.
+Linked List Intersection:
+Given two linked lists, find the node at which they intersect.
+
+Reverse Words in a String:
+Reverse the order of words in a given string.
+
+Minimum Window Substring:
+Given a string S and a string T, find the minimum window in S that contains all the characters in T.
+
+Implement a Simple Memory Allocator:
+Implement a basic memory allocator that can allocate and deallocate memory.
+
+Merge Intervals:
+Given a collection of intervals, merge overlapping intervals.
+
+LRU Cache Implementation:
+Implement an LRU (Least Recently Used) cache.
+
+Valid Parentheses:
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+Longest Palindromic Substring:
+Given a string, find the longest palindromic substring.
+
+Implement Trie (Prefix Tree):
+Implement a trie (prefix tree) and perform basic operations like insert, search, and delete.
+
+Counting Sort:
+Implement the counting sort algorithm.
+
+Detect Cycle in a Directed Graph:
+Given a directed graph, check whether it contains a cycle.
+
+Find the Celebrity:
+Given a party of N people, find the celebrity if there is one. A celebrity is someone who knows nobody but is known by everybody.
+
+Kth Smallest Element in a BST:
+Find the Kth smallest element in a binary search tree.
+
+Word Ladder:
+Given two words (beginWord and endWord), and a dictionary, find the length of the shortest transformation sequence from beginWord to endWord.
+
+Binary Tree Level Order Traversal:
+Given a binary tree, return the level order traversal of its nodes' values.
+
+Minimum Depth of Binary Tree:
+Given a binary tree, find its minimum depth.
+
+Implement a Thread-Safe Queue:
+Implement a queue that is safe for multiple threads.
+
+Two Sum:
+Given an array of integers, find two numbers such that they add up to a specific target number.
+
+Maximum Subarray Sum:
+Find the contiguous subarray with the largest sum.
+
+Top K Frequent Elements:
+Given an array, find the k most frequent elements.
+
+Implement Binary Search on a Rotated Sorted Array:
+Given a sorted array of n integers that has been rotated an unknown number of times, write code to find an element in the array.
+
+Evaluate Reverse Polish Notation:
+Evaluate the value of an arithmetic expression in Reverse Polish Notation.
+
+Minimum Window Subsequence:
+Given strings S and T, find the minimum (contiguous) subsequence of S, which has the same length as T.
+
+Longest Increasing Subsequence:
+Find the length of the longest increasing subsequence of a given array of integers.
+
+Serialize and Deserialize a Binary Tree:
+Design an algorithm to serialize and deserialize a binary tree.
+
+Sudoku Solver:
+Write a program to solve a Sudoku puzzle.
+
+Shortest Path in a Grid with Obstacles Elimination:
+Given a grid with obstacles, find the shortest path from the top-left corner to the bottom-right corner.
+
+Implement a Simple Shell with Pipes:
+Implement a basic shell that can execute commands with pipes.
+
+Count Islands in a 2D Matrix:
+Given a 2D matrix, count the number of islands.
+
+Find the Median of Two Sorted Arrays:
+There are two sorted arrays nums1 and nums2 of size m and n respectively. Find the median of the two sorted arrays.
+recursion 
+backtracking
+array
+linked list *
+stack**
+queue
+attende same contest 
+searching 
+SORTING
+bubble sort 
+insertion sort
+selection sort
+merge sort
+quick sort
+hashmaps
+HEAPS
+min heaps
+max heaps
+TREES
+binary tree
+sliding window
+GRAPH
+breadth first search(BFS)
+deapth first search(DFS)
+shorest path from source to all vertices :Dijkstra
+shorest path from  every vertex:floyed warshall
+minimum spaning tree  :prim's algorithm
+minimum spaning tree :krushkal's algorithms
+strogly connected components:kosaraju's algorithm
+topological sort
+shorest path from source to all vertices with negative edges: bellman ford 
+normal DSU
+DSU by rank
+DYNAMIC PROGRAMMING 
+memoisation (most inportant)
+tabulation
+some additional concepts 
+number theory
+bit manupulation
+tries
+
+
+
